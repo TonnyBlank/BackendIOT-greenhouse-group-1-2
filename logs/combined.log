@@ -1,0 +1,29 @@
+2025-07-09 15:10:53 [[32minfo[39m]: Server running on port 5000
+2025-07-09 15:10:54 [[32minfo[39m]: Connected to MQTT broker
+2025-07-09 15:16:26 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 10:05:06 [[32minfo[39m]: Server running on port 5000
+2025-07-10 10:05:06 [[31merror[39m]: Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.2rijvns.mongodb.net
+2025-07-10 12:53:08 [[32minfo[39m]: Server running on port 5000
+2025-07-10 12:53:08 [[31merror[39m]: Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.2rijvns.mongodb.net
+2025-07-10 12:54:23 [[32minfo[39m]: Server running on port 5000
+2025-07-10 12:55:06 [[32minfo[39m]: Server running on port 5000
+2025-07-10 12:55:38 [[32minfo[39m]: Server running on port 5000
+2025-07-10 12:55:45 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 12:56:10 [[31merror[39m]: Error connecting to MongoDB: Server selection timed out after 30000 ms
+2025-07-10 12:57:31 [[32minfo[39m]: Server running on port 5000
+2025-07-10 12:57:35 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 13:09:13 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 13:13:34 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 13:45:34 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 13:47:06 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:03:33 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:10:53 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:41:54 [[32minfo[39m]: Server running on port 5000
+2025-07-10 14:42:00 [[31merror[39m]: Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.2rijvns.mongodb.net
+2025-07-10 14:44:40 [[32minfo[39m]: Server running on port 5000
+2025-07-10 14:44:41 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:48:35 [[32minfo[39m]: Server running on port 5000
+2025-07-10 14:48:36 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 14:50:17 [[32minfo[39m]: Server running on port 5000
+2025-07-10 14:50:18 [[32minfo[39m]: Connected to MQTT broker
+2025-07-10 15:04:30 [[32minfo[39m]: Connected to MQTT broker

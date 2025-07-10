@@ -1,0 +1,4 @@
+2025-07-10 10:05:06 [[31merror[39m]: Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.2rijvns.mongodb.net
+2025-07-10 12:53:08 [[31merror[39m]: Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.2rijvns.mongodb.net
+2025-07-10 12:56:10 [[31merror[39m]: Error connecting to MongoDB: Server selection timed out after 30000 ms
+2025-07-10 14:42:00 [[31merror[39m]: Error connecting to MongoDB: querySrv ECONNREFUSED _mongodb._tcp.cluster0.2rijvns.mongodb.net
